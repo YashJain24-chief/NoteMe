@@ -9,16 +9,16 @@ Concepts implemented in this project:
    3. Database
    4. TypeConverters
    5. Executors
-  </br>
+
 2. LiveData
-</br>
-3. ViewModel and ViewModelFactory
-</br>
+
+3. ViewModel and ViewModelFactory</br>
+
 4.AsyncTask</br>
-</br>
-5.RecyclerView 
-</br>
-6.Custom Adapters
-</br>
-7.Custom dialog boxes, background, images(using Vecor Assests)
-</br>
+
+5.RecyclerView </br>
+
+6.Custom Adapters</br>
+
+7.Custom dialog boxes, background, images(using Vecor Assests)</br>
+
