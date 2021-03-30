@@ -3,7 +3,7 @@ An android Notes app integrated with a Todo manager to keep all your tasks and n
 </br>
 Concepts implemented in this project:
 </br>
-1. Room persistent library
+1. Room persistent library</br>
    1. Entity
    2. Dao
    3. Database
@@ -12,8 +12,8 @@ Concepts implemented in this project:
 
 2. LiveData
 
-3. ViewModel and ViewModelFactory</br>
-
+3. ViewModel and ViewModelFactory
+</br>
 4.AsyncTask</br>
 
 5.RecyclerView </br>
